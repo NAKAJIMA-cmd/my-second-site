@@ -57,22 +57,6 @@
   display: block;
 }
 
-/* テキスト部分 */
-.about-text {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 40px 20px 0;
-  color: #333;
-  font-size: 16px;
-  line-height: 1.8;
-}
-
-.about-text h2 {
-  font-size: 28px;
-  margin-bottom: 20px;
-  font-weight: bold;
-}
-
 /* Worksセクション */
 .section-works {
   background-color: #fff;
